@@ -3,4 +3,4 @@
 * css
 * javascript
 
-[translate here]()
+[translate here](https://john5ouza.github.io/studies-translater/)
